@@ -1,3 +1,5 @@
+<h1>This is my personal custom changes - I do not recommend you use this version please see the original author's repo: [https://github.com/PhilippC/keepass2android](https://github.com/PhilippC/keepass2android)</h1>
+
 <h1 align="center"><img src="/src/keepass2android/Resources/mipmap-xxxhdpi/ic_launcher_online.png" align="center" width="100" alt="Keepass2Android Logo">Keepass2Android</h1>
 
 
